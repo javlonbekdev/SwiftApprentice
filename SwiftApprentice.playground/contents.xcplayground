@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='chapter1'/>
+        <page name='chapter2'/>
+        <page name='chapter4'/>
+        <page name='chapter5'/>
+        <page name='chapter5_chal2'/>
+        <page name='chapter5_chal3'/>
+        <page name='chapter6'/>
+        <page name='chapter6_chal'/>
+        <page name='chapter7'/>
+        <page name='chapter7_2...6'/>
+        <page name='chapter7_7...12'/>
+        <page name='chapter8'/>
+        <page name='chapter8_chal'/>
+        <page name='chapter9'/>
+        <page name='chapter9_chal'/>
+    </pages>
+</playground>
